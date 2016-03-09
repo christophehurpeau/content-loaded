@@ -1,0 +1,20 @@
+{
+  "name": "content-loaded",
+  "version": "1.1.0",
+  "description": "Promise telling you when the browser is ready",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophehurpeau/content-loaded.git"
+  },
+  "keywords": [
+    "ready",
+    "DOMContentLoaded"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/content-loaded/issues"
+  },
+  "homepage": "https://github.com/christophehurpeau/content-loaded#readme"
+}
