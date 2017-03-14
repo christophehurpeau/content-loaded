@@ -1,5 +1,7 @@
 # content-loaded [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/content-loaded.svg)](https://greenkeeper.io/)
+
 use `document.readyState` and `document.addEventListener('DOMContentLoaded')` to resolve the Promise telling you when the browser is ready.
 
 ## Quick example
