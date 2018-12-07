@@ -3,6 +3,7 @@
   "version": "1.1.0",
   "description": "Promise telling you when the browser is ready",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/christophehurpeau/content-loaded.git"
